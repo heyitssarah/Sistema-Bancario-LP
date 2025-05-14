@@ -1,7 +1,7 @@
 #ifndef CONTABANCARIA_H
 #define CONTABANCARIA_H
 
-#include "cliente.h"
+#include "cliente.h" 
 #include <iostream>
 #include <string>
 
