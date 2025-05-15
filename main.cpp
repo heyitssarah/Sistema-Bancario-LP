@@ -1,4 +1,4 @@
-#include "contaBancaria.h"
+#include "contaBancaria.h" //Inclui o conteúdo de contaBancaria.h
 using namespace std;
 
 int main() {

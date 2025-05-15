@@ -11,7 +11,7 @@ private:
     string cpf;
 
 public:
-    Cliente(std::string nomeCliente, std::string cpfCliente); //Construtor
+    Cliente(std::string nomeCliente, std::string cpfCliente); 
     //Métodos para acessar dados do cliente (getters)
     string getNome() const; 
     string getCpf() const;
